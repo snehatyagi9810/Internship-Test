@@ -11,6 +11,7 @@
 		20F4B1662B289CB3002EA5DF /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20F4B1652B289CB3002EA5DF /* ContentView.swift */; };
 		20F4B1682B289CB5002EA5DF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 20F4B1672B289CB5002EA5DF /* Assets.xcassets */; };
 		20F4B16B2B289CB5002EA5DF /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 20F4B16A2B289CB5002EA5DF /* Preview Assets.xcassets */; };
+		20F4B1722B28E256002EA5DF /* SettingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20F4B1712B28E256002EA5DF /* SettingView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		20F4B1652B289CB3002EA5DF /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		20F4B1672B289CB5002EA5DF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		20F4B16A2B289CB5002EA5DF /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		20F4B1712B28E256002EA5DF /* SettingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				20F4B1632B289CB3002EA5DF /* InternshipApp.swift */,
 				20F4B1652B289CB3002EA5DF /* ContentView.swift */,
+				20F4B1712B28E256002EA5DF /* SettingView.swift */,
 				20F4B1672B289CB5002EA5DF /* Assets.xcassets */,
 				20F4B1692B289CB5002EA5DF /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				20F4B1722B28E256002EA5DF /* SettingView.swift in Sources */,
 				20F4B1662B289CB3002EA5DF /* ContentView.swift in Sources */,
 				20F4B1642B289CB3002EA5DF /* InternshipApp.swift in Sources */,
 			);
